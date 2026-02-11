@@ -1,6 +1,6 @@
 # Data Analytics Portfolio – Nurul Syahirah
 
-Welcome! This portfolio showcases my data analytics projects.
+Welcome! I am a Data Analytics graduate with practical experience in data quality, image preprocessing, and computer vision project support. This portfolio demonstrates structured workflows for model output validation, annotation, and dataset preparation, showcasing my ability to ensure data integrity and readiness for analytics or AI applications.
 
 ## Featured Projects
 
