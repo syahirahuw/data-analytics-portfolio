@@ -4,7 +4,7 @@ Welcome! This portfolio showcases my data analytics projects.
 
 ## Featured Projects
 
-### Power BI – Restaurant Performance & Customer Insights
+### Restaurant Performance & Customer Insights
 - Tools: Power BI, Power Query
 - Focus: Customer satisfaction, operations, cuisine trends
 - View project: https://github.com/syahirahuw/powerbi-restaurant-insights
