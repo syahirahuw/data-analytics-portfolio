@@ -11,7 +11,7 @@ Welcome! This portfolio showcases my data analytics projects.
 
 ### Image Preprocessing & Masking Workflow (Internship)
 - Tools: GIMP, Adobe Photoshop, Image preprocessing tools
-- Focus: Data accuracy and quality improvement
+- Focus: Data preprocessing
 - View project: https://github.com/syahirahuw/image-preprocessing-masking-workflow
 
 ### Computer Vision Detection Validation & Data Quality Framework (Internship)
